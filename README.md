@@ -35,7 +35,7 @@ Below is the breakdown of the data and what each column is. This data was obtain
 - Gender distribution
 - Churn distribution by gender
 - Bank balance distribution
-
+  
   After my exploratory data analysis (EDA) on the dataset, It was essential to construct a correlation matrix. This matrix sheds light on the interconnections between various variables in the dataset. It assists in the selection of appropriate dependent and independent variables, ensuring the model’s effectiveness.
  I was able to select the best variables for my analysis with the help of the correlation matrix. Age (0.29) and Balance (0.12) have the highest correlation to my Dependent variable “Churn”.
 
